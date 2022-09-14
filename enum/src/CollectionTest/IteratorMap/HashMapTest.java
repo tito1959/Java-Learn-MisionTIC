@@ -1,4 +1,4 @@
-package CollectionTest;
+package CollectionTest.IteratorMap;
 
 import java.util.HashMap;
 import java.util.Map;
